@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+/* Subtle engineering blueprint grid pattern for document placement guide */
+.bg-grid-pattern {
+  background-size: 20px 20px;
+  background-image: 
+    linear-gradient(to right, rgba(79, 70, 229, 0.07) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(79, 70, 229, 0.07) 1px, transparent 1px);
+}

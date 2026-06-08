@@ -1,0 +1,6 @@
+{
+  "name": "Chnada OCR",
+  "description": "Double-sided document OCR and layout reconstruction editor that parses text, image, and style positions to recreate high-fidelity editable digital documents with export support for PDF, Word, HTML, TXT, JSON, and CSV.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
